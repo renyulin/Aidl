@@ -57,7 +57,6 @@ public class AIDLService extends Service {
                 Log.e(TAG, "invoking addBooks() method , now the list is : " + mBooks.toString());
             }
         }
-
     };
 
     @Override
